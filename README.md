@@ -1,7 +1,7 @@
-### Hi! I’m Amlakyalew Worku, welcome to my project. 👋
+### Hi! I’m Amlakyalew Worku, welcome to my profile. 👋
 
-- 🔭 I’m currently working on advance flight control for quad-rotor UAVs.  
-- 📚 I’m currently learning Advanced nonlinear control techniques, MATLAB/Simulink, and Python.
+- 🔭 I’m currently working on advanced flight control for quad-rotor UAVs.  
+- 📚 I’m currently I work with advanced nonlinear control techniques, MATLAB/Simulink, C/C++, Python, PX4, and ROS 2.
 - 🤝 I'm looking to collaborate on projects related to robust nonlinear control.
 - 🙋‍♂️ I'm interested in combining learning-based and model-based control strategies for nonlinear dynamic systems. Particularly in how data-driven methods can enhance adaptability while preserving the stability and robustness of classical control approaches.
 - 💬 Ask me about Robust and adaptive control techniques.
